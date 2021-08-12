@@ -1,1 +1,8 @@
-# Task-9
+A screenshot of the console output immediately after running the withdraw command: https://github.com/awaissaeeed/Task-9/blob/d1995e2f80e9248d9d4182b650c22facbf7d44a7/task9-ss-withdrawal-command.png
+
+
+The Ethereum address used for your Layer 2 account: 0x89A49389729dfd1f39E503b5D0011eAAb5501dDe
+
+
+The Nervos Layer 1 address passed to withdraw command:
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqpfetd35j95kv9s7fwg0275r0n0nuvrepyznpy6555rve2yjr4hzk6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k4zdyjwyh980aruu72qa46qq3a2442qwauq9rqgqqqqqqcqk2wnf6
